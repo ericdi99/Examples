@@ -4,6 +4,11 @@ This is available as a [mobile app for iOS and Android](https://teslaprep.glidea
 
 This pre-drive checklist is designed to be done in a specific flow to save time and make sure nothing is missed. You will essentially do several "laps" around the car. Start at the beginning and work your way down the list. By the end, your car will be fully reviewed. Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time
 
+
+## What to bring with you ##
+1. [ ] USB cord and power for testing
+1. [ ] Printed Insurance Card
+2. [ ] Cashier check
 ---
 
 ## SECTION A - Verify pre-delivery vehicle records ##
@@ -128,8 +133,6 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Pair your smartphone to your vehicle over Bluetooth
 
 
-## SECTION G - Optional equipment
-1. [ ] Check for front license plate bracket (if applicable in your region)
-1. [ ] Check for the towing eye under the frunk mat
-1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
-1. [ ] Verify that any additional floor mats are included (if ordered)
+## SECTION G - Final Tasks
+1. [ ] A copy of all Paper Work, including a copy of your signed purchase agreement, although you can get it from your Tesla account
+1. [ ] Ask your delivery specialist to make sure that your car is marked as DELIVERED 
