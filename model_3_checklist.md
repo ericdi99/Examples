@@ -112,13 +112,16 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Front headlights (low and high-beam) operation and alignment. Ensure there is no condensation inside the light's housing
 1. [ ] Front park lights
 1. [ ] Front fog lights
+2. [ ] High Beam
 
 **TURN ON HAZARD LIGHTS**
 1. [ ] Front turn signal lights
 1. [ ] Left and right turn signal lights
 1. [ ] Rear turn signal lights
 1. [ ] Rear running lights
-1. [ ] Rear brake lights. Ensure there is no condensation inside the light's housing
+3. [ ] Rear brake lights. Ensure there is no condensation inside the light's housing
+4. [ ] Trunk Light
+5. [ ] Glovebox light
 
 
 ## SECTION E - Charging ability
